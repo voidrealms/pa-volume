@@ -1,7 +1,8 @@
 # pa-volume
 Pulse Audio volume control for Linux
+Some distrocs of linux (Ubuntu / Mint) typically have quiet volume and even at 100% your audio might be too quiet.
 
-Simple Python script using TKinter to control the volume of devices in Linux.
+This is a simple Python script using TKinter to control the volume of devices in Linux.
 
 Goals:
 - Allows volume up to 200%
