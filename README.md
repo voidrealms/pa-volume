@@ -12,3 +12,6 @@ Avoid bloat such as extra modules
 Wraps the following commands:
 pacmd list-sinks
 pactl set-sink-volume 1 150%
+
+![Screenshot](pa-volume.png)
+
